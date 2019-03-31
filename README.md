@@ -19,6 +19,29 @@ Roadmap:
 
 .....
 
+0.1.0 : Possibilità di calcolare Le dispersioni dell'involucro dell'edificio
+
+.....
+
+0.2.0 : Possibilità di inserire dei generatori
+
+.....
+
+0.3.0 : Certificazione presso il CTI per poter essere usato per la redazione dell'APE
+
+.....
+
+0.4.0 : Redazione dell'APE
+
+....
+
+0.5.0 : Permettere di fare calcoli di miglioamento
+
+.....
+
+
 Dipendenze:
 Vue.js
 Vue-orm
+
+Il tutto sarà possibile se troverò colleghi, amici in grado di unirsi a me in questa avventura.
