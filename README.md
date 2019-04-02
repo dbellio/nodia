@@ -1,4 +1,4 @@
-# openergy
+# Nodia open energy
 Progetto open source per calcoli termotecnici
 Il progetto si prefigge di calcolare la trasmittanza di strutture da poter condividere online, tra termotecnici e architetti, geometri.
 Le strutture calcolate e suddivise per progetto saranno condivise per poi essere utilizzate nei cantieri e e nei progetti in modo coerente
